@@ -13,4 +13,6 @@ git checkout -b your-dev-part-name origin/main
 git checkout main
 git merge --no-ff your-dev-part-name
 ```
+***
 ### Final score: 122(100+30)
+### The detailed description of the project is shown in Final report.pdf.
